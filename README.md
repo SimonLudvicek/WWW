@@ -1,1 +1,1 @@
-Výukové stránky
+Výukové stránky o WWW.
