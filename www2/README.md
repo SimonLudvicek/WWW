@@ -1,0 +1,1 @@
+Otázky a odpovědi ohledně WWW.

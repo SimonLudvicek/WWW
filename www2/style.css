@@ -1,0 +1,32 @@
+header {
+    text-align: center;
+    background-color: rgb(48, 89, 221);
+    color: white;
+    padding: 15px;
+    font-size: 125%;
+  }
+  main {
+    font-size: 130%;
+    padding-left: 250px;
+    padding-right: 250px;
+  }
+  table {
+    position: relative;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+    height: 250px;
+    text-align: center;
+    padding-top: 200px; 
+  }
+  th {
+    background-color: cornflowerblue; 
+  }
+  .dark {
+    background-color: darkgray;
+  }
+  .otazka {
+    color: blue;
+    background-color: darkgray;
+  }
+  
