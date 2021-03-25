@@ -23,19 +23,17 @@ header {
     padding: 15px;
     
   }
+  th {
+    background-color:rgb(48, 89, 221);
+    color: white;
+  }
   #t01 tr:nth-child(even) {
     background-color: #eee;
   }
   #t01 tr:nth-child(odd) {
    background-color: #fff;
   }
-  #t01 th {
-    background-color: black;
-    color: white;
-  }
-  th  {
-    color: black;
-  }
+
   .dark {
     background-color: darkgray;
   }
